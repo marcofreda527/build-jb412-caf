@@ -1,0 +1,5 @@
+*.pyc
+DefaultQuery.java
+FeatureQuery.java
+QRDExt_target.h
+QRDExt_target.min
